@@ -1,0 +1,3 @@
+[webservers]
+tomcatvm ansible_user=root
+
